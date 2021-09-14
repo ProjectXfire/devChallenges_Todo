@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "completed": true,
+      "name": "Task number 2",
+      "id": 2
+    },
+    {
+      "completed": true,
+      "name": "Task number 3",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Task number 4",
+      "completed": false
+    }
+  ]
+}
