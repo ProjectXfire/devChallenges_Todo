@@ -39,7 +39,7 @@ In this project you can create a list of tasks, checked each task when is comple
 To save the data I have used the JSON-SERVER (local database).
 The project is responsive.
 
-That I have leart was how to configure the JSON-SERVER. First create the file .json and finally run the following command ---> npx json-server --watch data/db.json --port 8000, the part "data/db,json" depend where the file is located and the name.
+That I have learned was how to configure the JSON-SERVER. First create the file .json and finally run the following command ---> npx json-server --watch data/db.json --port 8000, the part "data/db,json" depend where the file is located and the name.
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
