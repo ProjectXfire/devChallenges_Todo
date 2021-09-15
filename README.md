@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ProjectXfire/devChallenges_Todo">
       Solution
     </a>
     <span> | </span>
@@ -55,7 +55,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## How To Use ----------->
 
-# After o before run the react project, to run the server, run the following command:
+# To run the server, run the following command:
 
 npm run start-json
 
