@@ -36,7 +36,7 @@
 ## Overview
 
 In this project you can create a list of tasks, checked each task when is completed and a menu to see the pendings and completed tasks. You have the option to remove the task also.
-To save the data I have used the JSON-SERVER (local database).
+To save the data I have used the JSON-SERVER (local database). You can test the project without run the server too.
 The project is responsive.
 
 That I have learned was how to configure the JSON-SERVER. First create the file .json and finally run the following command ---> npx json-server --watch data/db.json --port 8000, the part "data/db,json" depend where the file is located and the name.
