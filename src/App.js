@@ -1,3 +1,5 @@
+// Styles
+import { Footer } from "./styles/footer";
 // Components
 import { useState, useEffect } from "react";
 import { Container } from "./components/container";
@@ -72,6 +74,9 @@ function App() {
         removeTask={removeTask}
         changeTaskStatus={changeTaskStatus}
       />
+      <Footer>
+        created by <strong>gbdeveloper</strong> - devChallenges.io
+      </Footer>
     </Container>
   );
 }
